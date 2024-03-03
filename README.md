@@ -25,7 +25,7 @@ Glance is a dating app promoting IRL interactions over endless messaging
 
 *This is a demo project to show my capabilities in SwiftUI and TCA*
 
-[![Glance demo video](https://img.youtube.com/vi/30t0v9Y_4cQ/0.jpg)]([https://www.youtube.com/watch?v=30t0v9Y_4cQ])
+https://github.com/zqazi114/Glance/assets/12015464/1b4cc9ae-4ea3-4a1b-9899-2926162b7fc9
 
 
 ### Highlights
