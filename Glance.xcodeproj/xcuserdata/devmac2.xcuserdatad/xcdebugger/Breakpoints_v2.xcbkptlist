@@ -1,0 +1,3264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "79A69237-1FE8-4892-9A58-5E485C4DB9C4"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8F238545-4611-4FDE-8476-56BD2D07F9E8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Glance/Services/LiveFirebaseService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "123"
+            endingLineNumber = "123"
+            landmarkName = "saveUser(user:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8F238545-4611-4FDE-8476-56BD2D07F9E8 - eb1ad606298fa089"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.CheckedContinuation&lt;Swift.Result&lt;Glance.User, Glance.AppError&gt;, Swift.Never&gt;) -&gt; () in Glance.LiveFirebaseService.saveUser(user: Glance.User) async -&gt; Swift.Result&lt;Glance.User, Glance.AppError&gt;"
+                  moduleName = "Glance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devmac2/Documents/apps/Glance/Glance/Services/LiveFirebaseService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "95"
+                  endingLineNumber = "95"
+                  offsetFromSymbolStart = "868">
+               </Location>
+               <Location
+                  uuid = "8F238545-4611-4FDE-8476-56BD2D07F9E8 - ed567fa92f27ea0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "function signature specialization &lt;Arg[3] = Value Promoted from Box&gt; of closure #1 (Swift.Optional&lt;Swift.Error&gt;) -&gt; () in closure #1 (Swift.CheckedContinuation&lt;Swift.Result&lt;Glance.User, Glance.AppError&gt;, Swift.Never&gt;) -&gt; () in Glance.LiveFirebaseService.saveUser(user: Glance.User) async -&gt; Swift.Result&lt;Glance.User, Glance.AppError&gt;"
+                  moduleName = "Glance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devmac2/Documents/apps/Glance/Glance/Services/LiveFirebaseService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "95"
+                  endingLineNumber = "95"
+                  offsetFromSymbolStart = "768">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5A245570-AC43-4A2E-BAA8-6D87C3F9D93D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Glance/Services/FirebaseService_Wrapper.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "164"
+            endingLineNumber = "164"
+            landmarkName = "F_loadUserData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7F957921-C0EA-4082-960D-CFD8A940C329"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Glance/Services/LiveFirebaseService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "152"
+            endingLineNumber = "152"
+            landmarkName = "saveUsers(users:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "19F01AC8-0D42-4F2A-B993-E60317F9DB5C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Glance/UserList/UserList.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "19F01AC8-0D42-4F2A-B993-E60317F9DB5C - 5b77522a547e84e0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 (Glance.User) -&gt; &lt;&lt;opaque return type of SwiftUI.View.buttonStyle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.PrimitiveButtonStyle&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; SwiftUI.ForEach&lt;Swift.Array&lt;Glance.User&gt;, Swift.Optional&lt;Swift.String&gt;, &lt;&lt;opaque return type of SwiftUI.View.buttonStyle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.PrimitiveButtonStyle&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI._ConditionalContent&lt;SwiftUI.List&lt;Swift.Never, SwiftUI.ForEach&lt;Swift.Array&lt;Glance.User&gt;, Swift.Optional&lt;Swift.String&gt;, &lt;&lt;opaque return type of SwiftUI.View.buttonStyle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.PrimitiveButtonStyle&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0&gt;&gt;, SwiftUI.Button&lt;SwiftUI.Text&gt;&gt;, SwiftUI.HStack&lt;SwiftUI.Spacer&gt;, SwiftUI.Spacer)&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.navigationTitle(SwiftUI.LocalizedStringKey) -&gt; some&gt;&gt;.0 in Glance.UserList.body.getter : some"
+                  moduleName = "Glance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devmac2/Documents/apps/Glance/Glance/UserList/UserList.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "216">
+               </Location>
+               <Location
+                  uuid = "19F01AC8-0D42-4F2A-B993-E60317F9DB5C - b39b05d05acb7222"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Glance.User) -&gt; &lt;&lt;opaque return type of SwiftUI.View.buttonStyle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.PrimitiveButtonStyle&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; SwiftUI.ForEach&lt;Swift.Array&lt;Glance.User&gt;, Swift.Optional&lt;Swift.String&gt;, &lt;&lt;opaque return type of SwiftUI.View.buttonStyle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.PrimitiveButtonStyle&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI._ConditionalContent&lt;SwiftUI.List&lt;Swift.Never, SwiftUI.ForEach&lt;Swift.Array&lt;Glance.User&gt;, Swift.Optional&lt;Swift.String&gt;, &lt;&lt;opaque return type of SwiftUI.View.buttonStyle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.PrimitiveButtonStyle&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0&gt;&gt;, SwiftUI.Button&lt;SwiftUI.Text&gt;&gt;, SwiftUI.HStack&lt;SwiftUI.Spacer&gt;, SwiftUI.Spacer)&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.navigationTitle(SwiftUI.LocalizedStringKey) -&gt; some&gt;&gt;.0 in Glance.UserList.body.getter : some"
+                  moduleName = "Glance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devmac2/Documents/apps/Glance/Glance/UserList/UserList.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "388">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0906EC14-87AE-43F5-B689-C970CB3A8B40"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Glance/SignIn/SignInView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "73"
+            endingLineNumber = "73"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4A1AE4CB-17A2-406E-8DA9-142BAF3DB566"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Glance/SignIn/SignInView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "4A1AE4CB-17A2-406E-8DA9-142BAF3DB566 - 7ab3448621939fd1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (ComposableArchitecture.Store&lt;Glance.SignInFeature.Path.State, Glance.SignInFeature.Path.Action&gt;) -&gt; SwiftUI._ConditionalContent&lt;Glance.LogInView, Glance.RegisterView&gt; in Glance.SignInView.body.getter : some"
+                  moduleName = "Glance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devmac2/Documents/apps/Glance/Glance/SignIn/SignInView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "268"
+                  endingLineNumber = "268"
+                  offsetFromSymbolStart = "184">
+               </Location>
+               <Location
+                  uuid = "4A1AE4CB-17A2-406E-8DA9-142BAF3DB566 - 4044c8b1f7329bc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (ComposableArchitecture.Store&lt;Glance.SignInFeature.Path.State, Glance.SignInFeature.Path.Action&gt;) -&gt; SwiftUI._ConditionalContent&lt;Swift.Optional&lt;Glance.LogInView&gt;, Swift.Optional&lt;Glance.RegisterView&gt;&gt; in Glance.SignInView.body.getter : some"
+                  moduleName = "Glance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devmac2/Documents/apps/Glance/Glance/SignIn/SignInView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "780">
+               </Location>
+               <Location
+                  uuid = "4A1AE4CB-17A2-406E-8DA9-142BAF3DB566 - 4044c8b1f732a62"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (ComposableArchitecture.Store&lt;Glance.SignInFeature.Path.State, Glance.SignInFeature.Path.Action&gt;) -&gt; SwiftUI._ConditionalContent&lt;Swift.Optional&lt;Glance.LogInView&gt;, Swift.Optional&lt;Glance.RegisterView&gt;&gt; in Glance.SignInView.body.getter : some"
+                  moduleName = "Glance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devmac2/Documents/apps/Glance/Glance/SignIn/SignInView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "780">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "23892697-D560-4F42-BA64-DC91DDCC42CC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Glance/SignIn/LogIn/LogInFeature.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8FC41492-7593-41D2-968B-0890BB9FB305"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Glance/SignIn/LogIn/LogInView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9ED55896-A77B-41A7-9A71-2841B8315E3C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Glance/SignIn/SignInView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "489A62A6-3A0D-425E-A506-C43361E61EC8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Glance/SignIn/SignInView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "489A62A6-3A0D-425E-A506-C43361E61EC8 - f7896c2171044ed4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.clipShape&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.Shape&gt;(_: &#x3c4;_1_0, style: SwiftUI.FillStyle) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Spacer, SwiftUI.NavigationLink&lt;ComposableArchitecture._NavigationLinkStoreContent&lt;Glance.LogInFeature.State, &lt;&lt;opaque return type of SwiftUI.View.clipShape&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.Shape&gt;(_: &#x3c4;_1_0, style: SwiftUI.FillStyle) -&gt; some&gt;&gt;.0&gt;, Swift.Never&gt;, SwiftUI.NavigationLink&lt;ComposableArchitecture._NavigationLinkStoreContent&lt;Glance.RegisterFeature.State, &lt;&lt;opaque return type of SwiftUI.View.clipShape&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.Shape&gt;(_: &#x3c4;_1_0, style: SwiftUI.FillStyle) -&gt; some&gt;&gt;.0&gt;, Swift.Never&gt;)&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0 in Glance.SignInView.body.getter : some"
+                  moduleName = "Glance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devmac2/Documents/apps/Glance/Glance/SignIn/SignInView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "268">
+               </Location>
+               <Location
+                  uuid = "489A62A6-3A0D-425E-A506-C43361E61EC8 - 97d5059245043a71"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Spacer, SwiftUI.Text, SwiftUI.Spacer)&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.clipShape&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.Shape&gt;(_: &#x3c4;_1_0, style: SwiftUI.FillStyle) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Spacer, SwiftUI.NavigationLink&lt;ComposableArchitecture._NavigationLinkStoreContent&lt;Glance.LogInFeature.State, &lt;&lt;opaque return type of SwiftUI.View.clipShape&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.Shape&gt;(_: &#x3c4;_1_0, style: SwiftUI.FillStyle) -&gt; some&gt;&gt;.0&gt;, Swift.Never&gt;, SwiftUI.NavigationLink&lt;ComposableArchitecture._NavigationLinkStoreContent&lt;Glance.RegisterFeature.State, &lt;&lt;opaque return type of SwiftUI.View.clipShape&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.Shape&gt;(_: &#x3c4;_1_0, style: SwiftUI.FillStyle) -&gt; some&gt;&gt;.0&gt;, Swift.Never&gt;)&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0 in Glance.SignInView.body.getter : some"
+                  moduleName = "Glance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devmac2/Documents/apps/Glance/Glance/SignIn/SignInView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "116">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F9A85D5E-6266-466C-8202-5F9D5A64B685"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Glance/SignIn/SignInView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "F9A85D5E-6266-466C-8202-5F9D5A64B685 - 3b2160e2ec64eca8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Spacer, SwiftUI.NavigationLink&lt;ComposableArchitecture._NavigationLinkStoreContent&lt;Glance.LogInFeature.State, &lt;&lt;opaque return type of SwiftUI.View.clipShape&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.Shape&gt;(_: &#x3c4;_1_0, style: SwiftUI.FillStyle) -&gt; some&gt;&gt;.0&gt;, Swift.Never&gt;, SwiftUI.NavigationLink&lt;ComposableArchitecture._NavigationLinkStoreContent&lt;Glance.RegisterFeature.State, &lt;&lt;opaque return type of SwiftUI.View.clipShape&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.Shape&gt;(_: &#x3c4;_1_0, style: SwiftUI.FillStyle) -&gt; some&gt;&gt;.0&gt;, Swift.Never&gt;)&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0 in Glance.SignInView.body.getter : some"
+                  moduleName = "Glance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devmac2/Documents/apps/Glance/Glance/SignIn/SignInView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "328">
+               </Location>
+               <Location
+                  uuid = "F9A85D5E-6266-466C-8202-5F9D5A64B685 - f7896c2171044f1a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.clipShape&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.Shape&gt;(_: &#x3c4;_1_0, style: SwiftUI.FillStyle) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Spacer, SwiftUI.NavigationLink&lt;ComposableArchitecture._NavigationLinkStoreContent&lt;Glance.LogInFeature.State, &lt;&lt;opaque return type of SwiftUI.View.clipShape&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.Shape&gt;(_: &#x3c4;_1_0, style: SwiftUI.FillStyle) -&gt; some&gt;&gt;.0&gt;, Swift.Never&gt;, SwiftUI.NavigationLink&lt;ComposableArchitecture._NavigationLinkStoreContent&lt;Glance.RegisterFeature.State, &lt;&lt;opaque return type of SwiftUI.View.clipShape&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.Shape&gt;(_: &#x3c4;_1_0, style: SwiftUI.FillStyle) -&gt; some&gt;&gt;.0&gt;, Swift.Never&gt;)&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0 in Glance.SignInView.body.getter : some"
+                  moduleName = "Glance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devmac2/Documents/apps/Glance/Glance/SignIn/SignInView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "248">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "90E6CD2B-7FA6-4CF7-966C-0F32E3F0BD41"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Glance/SignIn/SignInView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "67"
+            endingLineNumber = "67"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "90E6CD2B-7FA6-4CF7-966C-0F32E3F0BD41 - 4044c8b1f732a20"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (ComposableArchitecture.Store&lt;Glance.SignInFeature.Path.State, Glance.SignInFeature.Path.Action&gt;) -&gt; SwiftUI._ConditionalContent&lt;Swift.Optional&lt;Glance.LogInView&gt;, Swift.Optional&lt;Glance.RegisterView&gt;&gt; in Glance.SignInView.body.getter : some"
+                  moduleName = "Glance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devmac2/Documents/apps/Glance/Glance/SignIn/SignInView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
+                  offsetFromSymbolStart = "844">
+               </Location>
+               <Location
+                  uuid = "90E6CD2B-7FA6-4CF7-966C-0F32E3F0BD41 - 4044c8b1f732a20"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (ComposableArchitecture.Store&lt;Glance.SignInFeature.Path.State, Glance.SignInFeature.Path.Action&gt;) -&gt; SwiftUI._ConditionalContent&lt;Swift.Optional&lt;Glance.LogInView&gt;, Swift.Optional&lt;Glance.RegisterView&gt;&gt; in Glance.SignInView.body.getter : some"
+                  moduleName = "Glance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devmac2/Documents/apps/Glance/Glance/SignIn/SignInView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
+                  offsetFromSymbolStart = "1260">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7227248F-5ECC-4290-8A8C-6763A779345C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Glance/SignIn/SignInView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "68"
+            endingLineNumber = "68"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "7227248F-5ECC-4290-8A8C-6763A779345C - 4044c8b1f732a20"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (ComposableArchitecture.Store&lt;Glance.SignInFeature.Path.State, Glance.SignInFeature.Path.Action&gt;) -&gt; SwiftUI._ConditionalContent&lt;Swift.Optional&lt;Glance.LogInView&gt;, Swift.Optional&lt;Glance.RegisterView&gt;&gt; in Glance.SignInView.body.getter : some"
+                  moduleName = "Glance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devmac2/Documents/apps/Glance/Glance/SignIn/SignInView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
+                  offsetFromSymbolStart = "844">
+               </Location>
+               <Location
+                  uuid = "7227248F-5ECC-4290-8A8C-6763A779345C - 4044c8b1f732a20"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (ComposableArchitecture.Store&lt;Glance.SignInFeature.Path.State, Glance.SignInFeature.Path.Action&gt;) -&gt; SwiftUI._ConditionalContent&lt;Swift.Optional&lt;Glance.LogInView&gt;, Swift.Optional&lt;Glance.RegisterView&gt;&gt; in Glance.SignInView.body.getter : some"
+                  moduleName = "Glance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devmac2/Documents/apps/Glance/Glance/SignIn/SignInView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
+                  offsetFromSymbolStart = "1260">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6A0F36CF-1EF5-4E13-98C1-BE8433A35D0A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Glance/Root/RootFeature.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "108"
+            endingLineNumber = "108"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9E065F57-A4AF-4D9C-8F79-8BB785949B02"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Glance/Root/RootFeature.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "107"
+            endingLineNumber = "107"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "9E065F57-A4AF-4D9C-8F79-8BB785949B02 - 43597d221a4c2994"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (inout Glance.RootFeature.State, Glance.RootFeature.Action) -&gt; ComposableArchitecture.Effect&lt;Glance.RootFeature.Action&gt; in Glance.RootFeature.body.getter : some"
+                  moduleName = "Glance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devmac2/Documents/apps/Glance/Glance/Root/RootFeature.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "79"
+                  endingLineNumber = "79"
+                  offsetFromSymbolStart = "3900">
+               </Location>
+               <Location
+                  uuid = "9E065F57-A4AF-4D9C-8F79-8BB785949B02 - 7fde5f6b8c95c733"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 @Sendable (ComposableArchitecture.Send&lt;Glance.RootFeature.Action&gt;) async -&gt; () in closure #1 (inout Glance.RootFeature.State, Glance.RootFeature.Action) -&gt; ComposableArchitecture.Effect&lt;Glance.RootFeature.Action&gt; in Glance.RootFeature.body.getter : some"
+                  moduleName = "Glance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devmac2/Documents/apps/Glance/Glance/Root/RootFeature.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "79"
+                  endingLineNumber = "79"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "9E065F57-A4AF-4D9C-8F79-8BB785949B02 - a1f0592919ff3170"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #3 @Sendable (ComposableArchitecture.Send&lt;Glance.RootFeature.Action&gt;) async -&gt; () in closure #1 (inout Glance.RootFeature.State, Glance.RootFeature.Action) -&gt; ComposableArchitecture.Effect&lt;Glance.RootFeature.Action&gt; in Glance.RootFeature.body.getter : some"
+                  moduleName = "Glance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devmac2/Documents/apps/Glance/Glance/Root/RootFeature.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "79"
+                  endingLineNumber = "79"
+                  offsetFromSymbolStart = "20">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F35CD0E1-6E8B-4958-933E-7018F751CD62"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Glance/SignIn/SignInFeature.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "78"
+            endingLineNumber = "78"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "F35CD0E1-6E8B-4958-933E-7018F751CD62 - caae5533ec55a058"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (inout Glance.SignInFeature.State, Glance.SignInFeature.Action) -&gt; ComposableArchitecture.Effect&lt;Glance.SignInFeature.Action&gt; in Glance.SignInFeature.body.getter : some"
+                  moduleName = "Glance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devmac2/Documents/apps/Glance/Glance/SignIn/SignInFeature.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78"
+                  offsetFromSymbolStart = "664">
+               </Location>
+               <Location
+                  uuid = "F35CD0E1-6E8B-4958-933E-7018F751CD62 - a524a4ab68f3c613"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (ComposableArchitecture.Send&lt;Glance.SignInFeature.Action&gt;) async -&gt; () in closure #1 (inout Glance.SignInFeature.State, Glance.SignInFeature.Action) -&gt; ComposableArchitecture.Effect&lt;Glance.SignInFeature.Action&gt; in Glance.SignInFeature.body.getter : some"
+                  moduleName = "Glance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devmac2/Documents/apps/Glance/Glance/SignIn/SignInFeature.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "F35CD0E1-6E8B-4958-933E-7018F751CD62 - 8c516fcc3cdfc80f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #1 @Sendable (ComposableArchitecture.Send&lt;Glance.SignInFeature.Action&gt;) async -&gt; () in closure #1 (inout Glance.SignInFeature.State, Glance.SignInFeature.Action) -&gt; ComposableArchitecture.Effect&lt;Glance.SignInFeature.Action&gt; in Glance.SignInFeature.body.getter : some"
+                  moduleName = "Glance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devmac2/Documents/apps/Glance/Glance/SignIn/SignInFeature.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78"
+                  offsetFromSymbolStart = "44">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "06B517D7-2E52-4D23-BDEB-34D42E13CB83"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Glance/SignIn/SignInFeature.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "79"
+            endingLineNumber = "79"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "06B517D7-2E52-4D23-BDEB-34D42E13CB83 - 8c516fcc3cdfc9ee"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #1 @Sendable (ComposableArchitecture.Send&lt;Glance.SignInFeature.Action&gt;) async -&gt; () in closure #1 (inout Glance.SignInFeature.State, Glance.SignInFeature.Action) -&gt; ComposableArchitecture.Effect&lt;Glance.SignInFeature.Action&gt; in Glance.SignInFeature.body.getter : some"
+                  moduleName = "Glance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devmac2/Documents/apps/Glance/Glance/SignIn/SignInFeature.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "79"
+                  endingLineNumber = "79"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "06B517D7-2E52-4D23-BDEB-34D42E13CB83 - 29099a56ebcb6ff1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) suspend resume partial function for closure #1 @Sendable (ComposableArchitecture.Send&lt;Glance.SignInFeature.Action&gt;) async -&gt; () in closure #1 (inout Glance.SignInFeature.State, Glance.SignInFeature.Action) -&gt; ComposableArchitecture.Effect&lt;Glance.SignInFeature.Action&gt; in Glance.SignInFeature.body.getter : some"
+                  moduleName = "Glance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devmac2/Documents/apps/Glance/Glance/SignIn/SignInFeature.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "79"
+                  endingLineNumber = "79"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "06B517D7-2E52-4D23-BDEB-34D42E13CB83 - 72e6c6e099368df0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable (ComposableArchitecture.Send&lt;Glance.SignInFeature.Action&gt;) async -&gt; () in closure #1 (inout Glance.SignInFeature.State, Glance.SignInFeature.Action) -&gt; ComposableArchitecture.Effect&lt;Glance.SignInFeature.Action&gt; in Glance.SignInFeature.body.getter : some"
+                  moduleName = "Glance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devmac2/Documents/apps/Glance/Glance/SignIn/SignInFeature.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "79"
+                  endingLineNumber = "79"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "91398DA2-7F35-410E-BA68-12AF8E3D22AD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Glance/Common/Extensions/Encodable.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "toDict()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "91398DA2-7F35-410E-BA68-12AF8E3D22AD - 86f670b6943d2bb5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Swift.Encodable.toDict() throws -&gt; Swift.Dictionary&lt;Swift.String, Any&gt;"
+                  moduleName = "Glance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devmac2/Documents/apps/Glance/Glance/Common/Extensions/Encodable.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "120">
+               </Location>
+               <Location
+                  uuid = "91398DA2-7F35-410E-BA68-12AF8E3D22AD - 86f670b6943d2bb5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Swift.Encodable.toDict() throws -&gt; Swift.Dictionary&lt;Swift.String, Any&gt;"
+                  moduleName = "Glance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devmac2/Documents/apps/Glance/Glance/Common/Extensions/Encodable.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "91398DA2-7F35-410E-BA68-12AF8E3D22AD - f7a2a33704db398d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Swift.Encodable.toDict() throws -&gt; Swift.Dictionary&lt;Swift.String, Any&gt;"
+                  moduleName = "GlanceTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devmac2/Documents/apps/Glance/Glance/Common/Extensions/Encodable.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "91398DA2-7F35-410E-BA68-12AF8E3D22AD - 86f670b6943d2a54"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Swift.Encodable.toDict() throws -&gt; Swift.Dictionary&lt;Swift.String, Any&gt;"
+                  moduleName = "Glance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devmac2/Documents/apps/Glance/Glance/Common/Extensions/Encodable.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "120">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C799CE22-DA9B-4EE4-911C-4270808451DE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Glance/Services/Places/GooglePlacesService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "206"
+            endingLineNumber = "206"
+            landmarkName = "didAutocomplete(with:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C799CE22-DA9B-4EE4-911C-4270808451DE - c153b61b84065a5e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Glance.GMSAutocompleteFetcherPublisher.didAutocomplete(with: Swift.Array&lt;__C.GMSAutocompletePrediction&gt;) -&gt; ()"
+                  moduleName = "Glance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devmac2/Documents/apps/Glance/Glance/Services/Places/GooglePlacesService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "123"
+                  endingLineNumber = "123"
+                  offsetFromSymbolStart = "156">
+               </Location>
+               <Location
+                  uuid = "C799CE22-DA9B-4EE4-911C-4270808451DE - c153b61b84066cd4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Glance.GMSAutocompleteFetcherPublisher.didAutocomplete(with: Swift.Array&lt;__C.GMSAutocompletePrediction&gt;) -&gt; ()"
+                  moduleName = "Glance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devmac2/Documents/apps/Glance/Glance/Services/Places/GooglePlacesService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "197"
+                  endingLineNumber = "197"
+                  offsetFromSymbolStart = "44">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D4DAF60B-31EE-4F95-BB55-94FD901D945B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Glance/Services/Places/GooglePlacesService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "142"
+            endingLineNumber = "142"
+            landmarkName = "fetchPlaces(type:keyword:radius:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D4DAF60B-31EE-4F95-BB55-94FD901D945B - 76fe5f84414ccb8b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Glance.GooglePlacesService.getPlacesWithHTTP(search: Swift.Optional&lt;Swift.String&gt;) -&gt; ()"
+                  moduleName = "Glance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devmac2/Documents/apps/Glance/Glance/Services/Places/GooglePlacesService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "117"
+                  endingLineNumber = "117"
+                  offsetFromSymbolStart = "60">
+               </Location>
+               <Location
+                  uuid = "D4DAF60B-31EE-4F95-BB55-94FD901D945B - 1167235f073ed483"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Glance.GooglePlacesService.getPlacesOfType(type: Swift.String) -&gt; ()"
+                  moduleName = "Glance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devmac2/Documents/apps/Glance/Glance/Services/Places/GooglePlacesService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "129"
+                  endingLineNumber = "129"
+                  offsetFromSymbolStart = "128">
+               </Location>
+               <Location
+                  uuid = "D4DAF60B-31EE-4F95-BB55-94FD901D945B - 56f8aa21eeee39e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Glance.GooglePlacesService.fetchPlaces(type: Swift.String, keyword: Swift.Optional&lt;Swift.String&gt;, radius: Swift.Int) -&gt; ()"
+                  moduleName = "Glance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devmac2/Documents/apps/Glance/Glance/Services/Places/GooglePlacesService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "170"
+                  endingLineNumber = "170"
+                  offsetFromSymbolStart = "140">
+               </Location>
+               <Location
+                  uuid = "D4DAF60B-31EE-4F95-BB55-94FD901D945B - 56f8aa21eeee887"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Glance.GooglePlacesService.fetchPlaces(type: Swift.String, keyword: Swift.Optional&lt;Swift.String&gt;, radius: Swift.Int) -&gt; ()"
+                  moduleName = "Glance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devmac2/Documents/apps/Glance/Glance/Services/Places/GooglePlacesService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "131"
+                  endingLineNumber = "131"
+                  offsetFromSymbolStart = "320">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "366CC6BB-7775-4E33-B177-A10F78A2FB89"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Glance/Services/Places/GooglePlacesService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "137"
+            endingLineNumber = "137"
+            landmarkName = "fetchPlaces(type:keyword:radius:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "366CC6BB-7775-4E33-B177-A10F78A2FB89 - 32f319f078915ea8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Glance.GooglePlacesService.getPlacesOfType(type: Swift.String) -&gt; ()"
+                  moduleName = "Glance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devmac2/Documents/apps/Glance/Glance/Services/Places/GooglePlacesService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "124"
+                  endingLineNumber = "124"
+                  offsetFromSymbolStart = "1256">
+               </Location>
+               <Location
+                  uuid = "366CC6BB-7775-4E33-B177-A10F78A2FB89 - b8ce2bb247ea1be2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Glance.GooglePlacesService.fetchPlaces(type: Swift.String, keyword: Swift.Optional&lt;Swift.String&gt;, radius: Swift.Int) -&gt; ()"
+                  moduleName = "Glance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devmac2/Documents/apps/Glance/Glance/Services/Places/GooglePlacesService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "126"
+                  endingLineNumber = "126"
+                  offsetFromSymbolStart = "3292">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7863DFD5-0E63-4976-8144-9A708BDA9916"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Glance/Services/Places/GooglePlacesService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "126"
+            endingLineNumber = "126"
+            landmarkName = "fetchPlaces(type:keyword:radius:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9FA630CE-2C77-4D6A-B4B0-353B17F8AF2A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Glance/Services/Places/GooglePlacesService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "151"
+            endingLineNumber = "151"
+            landmarkName = "fetchPlaces(type:keyword:radius:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9FA630CE-2C77-4D6A-B4B0-353B17F8AF2A - 56f8aa21eeee296"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Glance.GooglePlacesService.fetchPlaces(type: Swift.String, keyword: Swift.Optional&lt;Swift.String&gt;, radius: Swift.Int) -&gt; ()"
+                  moduleName = "Glance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devmac2/Documents/apps/Glance/Glance/Services/Places/GooglePlacesService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "178"
+                  endingLineNumber = "178"
+                  offsetFromSymbolStart = "804">
+               </Location>
+               <Location
+                  uuid = "9FA630CE-2C77-4D6A-B4B0-353B17F8AF2A - 11333fd9ee4dc45f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Glance.GooglePlacesService.fetchPlaces(type: Swift.String, keyword: Swift.Optional&lt;Swift.String&gt;, radius: Swift.Int) -&gt; ()"
+                  moduleName = "Glance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devmac2/Documents/apps/Glance/Glance/Services/Places/GooglePlacesService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "140"
+                  endingLineNumber = "140"
+                  offsetFromSymbolStart = "68">
+               </Location>
+               <Location
+                  uuid = "9FA630CE-2C77-4D6A-B4B0-353B17F8AF2A - 11333fd9ee4dc45f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Glance.GooglePlacesService.fetchPlaces(type: Swift.String, keyword: Swift.Optional&lt;Swift.String&gt;, radius: Swift.Int) -&gt; ()"
+                  moduleName = "Glance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devmac2/Documents/apps/Glance/Glance/Services/Places/GooglePlacesService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "140"
+                  endingLineNumber = "140"
+                  offsetFromSymbolStart = "64">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C9A4D9CC-F2B2-4F81-B044-D76E25DA7229"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Glance/Services/Places/GooglePlacesService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "150"
+            endingLineNumber = "150"
+            landmarkName = "fetchPlaces(type:keyword:radius:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C9A4D9CC-F2B2-4F81-B044-D76E25DA7229 - 56f8aa21eeee79f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Glance.GooglePlacesService.fetchPlaces(type: Swift.String, keyword: Swift.Optional&lt;Swift.String&gt;, radius: Swift.Int) -&gt; ()"
+                  moduleName = "Glance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devmac2/Documents/apps/Glance/Glance/Services/Places/GooglePlacesService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "139"
+                  endingLineNumber = "139"
+                  offsetFromSymbolStart = "1264">
+               </Location>
+               <Location
+                  uuid = "C9A4D9CC-F2B2-4F81-B044-D76E25DA7229 - 11333fd9ee4dc45f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Glance.GooglePlacesService.fetchPlaces(type: Swift.String, keyword: Swift.Optional&lt;Swift.String&gt;, radius: Swift.Int) -&gt; ()"
+                  moduleName = "Glance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devmac2/Documents/apps/Glance/Glance/Services/Places/GooglePlacesService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "140"
+                  endingLineNumber = "140"
+                  offsetFromSymbolStart = "68">
+               </Location>
+               <Location
+                  uuid = "C9A4D9CC-F2B2-4F81-B044-D76E25DA7229 - 56f8aa21eeee79f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Glance.GooglePlacesService.fetchPlaces(type: Swift.String, keyword: Swift.Optional&lt;Swift.String&gt;, radius: Swift.Int) -&gt; ()"
+                  moduleName = "Glance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devmac2/Documents/apps/Glance/Glance/Services/Places/GooglePlacesService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "139"
+                  endingLineNumber = "139"
+                  offsetFromSymbolStart = "1544">
+               </Location>
+               <Location
+                  uuid = "C9A4D9CC-F2B2-4F81-B044-D76E25DA7229 - 11333fd9ee4dc45f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Glance.GooglePlacesService.fetchPlaces(type: Swift.String, keyword: Swift.Optional&lt;Swift.String&gt;, radius: Swift.Int) -&gt; ()"
+                  moduleName = "Glance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devmac2/Documents/apps/Glance/Glance/Services/Places/GooglePlacesService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "140"
+                  endingLineNumber = "140"
+                  offsetFromSymbolStart = "64">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3E4A6C7B-FB9E-4F63-8D78-FB54C0C394F7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Glance/Services/Places/GooglePlacesService_Wrapper.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "75"
+            endingLineNumber = "75"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "3E4A6C7B-FB9E-4F63-8D78-FB54C0C394F7 - 5abf403bad224d17"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #5 (Swift.Array&lt;Glance.GooglePlacesHTTPResponse.PlaceResult&gt;) -&gt; () in Glance.GooglePlacesService_Wrapper.body.getter : some"
+                  moduleName = "Glance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devmac2/Documents/apps/Glance/Glance/Services/Places/GooglePlacesService_Wrapper.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "73"
+                  endingLineNumber = "73"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  uuid = "3E4A6C7B-FB9E-4F63-8D78-FB54C0C394F7 - 21a7423666496424"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Glance.GooglePlacesService_Wrapper.body.getter : some"
+                  moduleName = "Glance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devmac2/Documents/apps/Glance/Glance/Services/Places/GooglePlacesService_Wrapper.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "75"
+                  endingLineNumber = "75"
+                  offsetFromSymbolStart = "2328">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "06C81D9F-3885-414C-AB26-9F6263755EF1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Glance/Root/Main/CheckIn/PickLocation/PickLocationFeature.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "89"
+            endingLineNumber = "89"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "06C81D9F-3885-414C-AB26-9F6263755EF1 - fb33987ca96d93dc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (inout Glance.PickLocationFeature.State, Glance.PickLocationFeature.Action) -&gt; ComposableArchitecture.Effect&lt;Glance.PickLocationFeature.Action&gt; in Glance.PickLocationFeature.body.getter : some"
+                  moduleName = "Glance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devmac2/Documents/apps/Glance/Glance/Root/Main/CheckIn/PickLocation/PickLocationFeature.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "91"
+                  endingLineNumber = "91"
+                  offsetFromSymbolStart = "2060">
+               </Location>
+               <Location
+                  uuid = "06C81D9F-3885-414C-AB26-9F6263755EF1 - fb33987ca96d9382"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (inout Glance.PickLocationFeature.State, Glance.PickLocationFeature.Action) -&gt; ComposableArchitecture.Effect&lt;Glance.PickLocationFeature.Action&gt; in Glance.PickLocationFeature.body.getter : some"
+                  moduleName = "Glance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devmac2/Documents/apps/Glance/Glance/Root/Main/CheckIn/PickLocation/PickLocationFeature.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "89"
+                  endingLineNumber = "89"
+                  offsetFromSymbolStart = "2076">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EBD3E522-7F3F-4622-A41B-94B0ACB71FEB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Glance/Root/Main/CheckIn/PickLocation/PickLocationFeature.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "98"
+            endingLineNumber = "98"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "554E40A3-D316-4AF0-BCC1-A4A1D308688E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Glance/Root/Main/CheckIn/PickLocation/PickLocationFeature.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "94"
+            endingLineNumber = "94"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "554E40A3-D316-4AF0-BCC1-A4A1D308688E - fb33987ca96d91cd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (inout Glance.PickLocationFeature.State, Glance.PickLocationFeature.Action) -&gt; ComposableArchitecture.Effect&lt;Glance.PickLocationFeature.Action&gt; in Glance.PickLocationFeature.body.getter : some"
+                  moduleName = "Glance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devmac2/Documents/apps/Glance/Glance/Root/Main/CheckIn/PickLocation/PickLocationFeature.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "106"
+                  endingLineNumber = "106"
+                  offsetFromSymbolStart = "1176">
+               </Location>
+               <Location
+                  uuid = "554E40A3-D316-4AF0-BCC1-A4A1D308688E - fb33987ca96d91cd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (inout Glance.PickLocationFeature.State, Glance.PickLocationFeature.Action) -&gt; ComposableArchitecture.Effect&lt;Glance.PickLocationFeature.Action&gt; in Glance.PickLocationFeature.body.getter : some"
+                  moduleName = "Glance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devmac2/Documents/apps/Glance/Glance/Root/Main/CheckIn/PickLocation/PickLocationFeature.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "106"
+                  endingLineNumber = "106"
+                  offsetFromSymbolStart = "1300">
+               </Location>
+               <Location
+                  uuid = "554E40A3-D316-4AF0-BCC1-A4A1D308688E - fb33987ca96d9039"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (inout Glance.PickLocationFeature.State, Glance.PickLocationFeature.Action) -&gt; ComposableArchitecture.Effect&lt;Glance.PickLocationFeature.Action&gt; in Glance.PickLocationFeature.body.getter : some"
+                  moduleName = "Glance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devmac2/Documents/apps/Glance/Glance/Root/Main/CheckIn/PickLocation/PickLocationFeature.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "94"
+                  endingLineNumber = "94"
+                  offsetFromSymbolStart = "1828">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7FD7DF6E-4812-4F80-917A-EAD0A57C2AA2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Glance/Root/Main/CheckIn/PickLocation/PickLocationFeature.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "83"
+            endingLineNumber = "83"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7DB8E8CE-F27E-43CD-B999-3F827B734A6B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Glance/Services/Places/GooglePlacesService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "143"
+            endingLineNumber = "143"
+            landmarkName = "fetchPlaces(type:keyword:radius:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BBC3723D-5BA1-4C3A-833E-9840A5029872"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Glance/Services/Places/GooglePlacesService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "133"
+            endingLineNumber = "133"
+            landmarkName = "fetchPlaces(type:keyword:radius:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BBC3723D-5BA1-4C3A-833E-9840A5029872 - b8ce2bb247ea1a66"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Glance.GooglePlacesService.fetchPlaces(type: Swift.String, keyword: Swift.Optional&lt;Swift.String&gt;, radius: Swift.Int) -&gt; ()"
+                  moduleName = "Glance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devmac2/Documents/apps/Glance/Glance/Services/Places/GooglePlacesService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "122"
+                  endingLineNumber = "122"
+                  offsetFromSymbolStart = "3180">
+               </Location>
+               <Location
+                  uuid = "BBC3723D-5BA1-4C3A-833E-9840A5029872 - b8ce2bb247ea1a66"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Glance.GooglePlacesService.fetchPlaces(type: Swift.String, keyword: Swift.Optional&lt;Swift.String&gt;, radius: Swift.Int) -&gt; ()"
+                  moduleName = "Glance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devmac2/Documents/apps/Glance/Glance/Services/Places/GooglePlacesService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "122"
+                  endingLineNumber = "122"
+                  offsetFromSymbolStart = "3204">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "188242F9-DA5B-4C37-90C5-535597D7728C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Glance/Root/Main/Match/ProfileList/ProfileListView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "01A540E8-C52F-44F5-B0CA-4AD0F8EFDA04"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Glance/Root/Main/Match/ProfileList/ProfileListView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "01A9F456-C2BC-4926-AD31-46789F179A8F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Glance/Services/Quotes/QuotesService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "67"
+            endingLineNumber = "67"
+            landmarkName = "fetch(category:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1FF83B18-994D-401E-BE0A-1F9731875C49"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Glance/Services/Quotes/QuotesService_Wrapper.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "95310314-D3E4-4B00-BA62-E96C5688C888"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Glance/Services/Quotes/QuotesService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "fetch(category:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "95310314-D3E4-4B00-BA62-E96C5688C888 - 233747decd00b27"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Glance.QuotesService.fetch(category: Swift.Optional&lt;Glance.QuotesService.Category&gt;) -&gt; ()"
+                  moduleName = "Glance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devmac2/Documents/apps/Glance/Glance/Services/Quotes/QuotesService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "2296">
+               </Location>
+               <Location
+                  uuid = "95310314-D3E4-4B00-BA62-E96C5688C888 - ba8d1fabc9699f45"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 ((data: Foundation.Data, response: __C.NSURLResponse)) -&gt; Foundation.Data in Glance.QuotesService.fetch(category: Swift.Optional&lt;Glance.QuotesService.Category&gt;) -&gt; ()"
+                  moduleName = "Glance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devmac2/Documents/apps/Glance/Glance/Services/Quotes/QuotesService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "68">
+               </Location>
+               <Location
+                  uuid = "95310314-D3E4-4B00-BA62-E96C5688C888 - 233747decd00b27"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Glance.QuotesService.fetch(category: Swift.Optional&lt;Glance.QuotesService.Category&gt;) -&gt; ()"
+                  moduleName = "Glance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devmac2/Documents/apps/Glance/Glance/Services/Quotes/QuotesService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "2308">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "83B37234-C996-4255-BF21-0511FBD9EBBA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Glance/Services/Quotes/QuotesService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "fetch(category:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "83B37234-C996-4255-BF21-0511FBD9EBBA - 233747decd00917"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Glance.QuotesService.fetch(category: Swift.Optional&lt;Glance.QuotesService.Category&gt;) -&gt; ()"
+                  moduleName = "Glance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devmac2/Documents/apps/Glance/Glance/Services/Quotes/QuotesService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "816">
+               </Location>
+               <Location
+                  uuid = "83B37234-C996-4255-BF21-0511FBD9EBBA - 233747decd00917"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Glance.QuotesService.fetch(category: Swift.Optional&lt;Glance.QuotesService.Category&gt;) -&gt; ()"
+                  moduleName = "Glance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devmac2/Documents/apps/Glance/Glance/Services/Quotes/QuotesService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "820">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "96970451-52E3-431A-B6BC-6EAD49A55A4E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Glance/Services/Quotes/QuotesService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "fetch(category:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "96970451-52E3-431A-B6BC-6EAD49A55A4E - 233747decd00ae9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Glance.QuotesService.fetch(category: Swift.Optional&lt;Glance.QuotesService.Category&gt;) -&gt; ()"
+                  moduleName = "Glance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devmac2/Documents/apps/Glance/Glance/Services/Quotes/QuotesService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "2612">
+               </Location>
+               <Location
+                  uuid = "96970451-52E3-431A-B6BC-6EAD49A55A4E - 233747decd00ae9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Glance.QuotesService.fetch(category: Swift.Optional&lt;Glance.QuotesService.Category&gt;) -&gt; ()"
+                  moduleName = "Glance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devmac2/Documents/apps/Glance/Glance/Services/Quotes/QuotesService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "2632">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FDDDDE29-EF23-44EA-AB10-A61A0BCB563E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Glance/Services/Quotes/QuotesService_Wrapper.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3FA11C86-BCC3-4168-B493-16E12AEF608D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Glance/Services/Quotes/QuotesService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "71"
+            endingLineNumber = "71"
+            landmarkName = "fetch(category:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CF86AE82-C8D4-453D-B6E4-B57FA8429786"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Glance/Services/Quotes/QuotesService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "75"
+            endingLineNumber = "75"
+            landmarkName = "fetch(category:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CF86AE82-C8D4-453D-B6E4-B57FA8429786 - 233747decd00781"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Glance.QuotesService.fetch(category: Swift.Optional&lt;Glance.QuotesService.Category&gt;) -&gt; ()"
+                  moduleName = "Glance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devmac2/Documents/apps/Glance/Glance/Services/Quotes/QuotesService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "75"
+                  endingLineNumber = "75"
+                  offsetFromSymbolStart = "3084">
+               </Location>
+               <Location
+                  uuid = "CF86AE82-C8D4-453D-B6E4-B57FA8429786 - 8e814e9cbee81e54"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Combine.Subscribers.Completion&lt;Swift.Never&gt;) -&gt; () in Glance.QuotesService.fetch(category: Swift.Optional&lt;Glance.QuotesService.Category&gt;) -&gt; ()"
+                  moduleName = "Glance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devmac2/Documents/apps/Glance/Glance/Services/Quotes/QuotesService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "112">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "36AFAA61-76DA-4644-82AF-C08A67386089"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Glance/Services/Quotes/QuotesService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "74"
+            endingLineNumber = "74"
+            landmarkName = "fetch(category:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "80A77B24-A3A0-4EFA-A712-64521EC3EED1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Glance/Root/Main/Matches/Quote/QuoteFeature.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "58"
+            endingLineNumber = "58"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "80A77B24-A3A0-4EFA-A712-64521EC3EED1 - d2cc6cb1a6ee2a0f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (inout Glance.QuoteFeature.State, Glance.QuoteFeature.Action) -&gt; ComposableArchitecture.Effect&lt;Glance.QuoteFeature.Action&gt; in Glance.QuoteFeature.body.getter : some"
+                  moduleName = "Glance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devmac2/Documents/apps/Glance/Glance/Root/Main/Matches/Quote/QuoteFeature.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "540">
+               </Location>
+               <Location
+                  uuid = "80A77B24-A3A0-4EFA-A712-64521EC3EED1 - d2cc6cb1a6ee2a68"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (inout Glance.QuoteFeature.State, Glance.QuoteFeature.Action) -&gt; ComposableArchitecture.Effect&lt;Glance.QuoteFeature.Action&gt; in Glance.QuoteFeature.body.getter : some"
+                  moduleName = "Glance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devmac2/Documents/apps/Glance/Glance/Root/Main/Matches/Quote/QuoteFeature.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "532">
+               </Location>
+               <Location
+                  uuid = "80A77B24-A3A0-4EFA-A712-64521EC3EED1 - d2cc6cb1a6ee2baa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (inout Glance.QuoteFeature.State, Glance.QuoteFeature.Action) -&gt; ComposableArchitecture.Effect&lt;Glance.QuoteFeature.Action&gt; in Glance.QuoteFeature.body.getter : some"
+                  moduleName = "Glance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devmac2/Documents/apps/Glance/Glance/Root/Main/Matches/Quote/QuoteFeature.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "516">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7824E8EC-40C7-49D5-B836-40F3B4F139CD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Glance/Root/Main/Matches/Quote/QuoteFeature.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "7824E8EC-40C7-49D5-B836-40F3B4F139CD - 753885b1d0f879b7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; Combine.Publishers.Map&lt;Combine.AnyPublisher&lt;Swift.Array&lt;Glance.Quote&gt;, Swift.Never&gt;, Glance.QuoteFeature.Action&gt; in closure #1 (inout Glance.QuoteFeature.State, Glance.QuoteFeature.Action) -&gt; ComposableArchitecture.Effect&lt;Glance.QuoteFeature.Action&gt; in Glance.QuoteFeature.body.getter : some"
+                  moduleName = "Glance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devmac2/Documents/apps/Glance/Glance/Root/Main/Matches/Quote/QuoteFeature.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "100">
+               </Location>
+               <Location
+                  uuid = "7824E8EC-40C7-49D5-B836-40F3B4F139CD - 180d14fa642605e0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;Glance.Quote&gt;) -&gt; Glance.QuoteFeature.Action in closure #1 () -&gt; Combine.Publishers.Map&lt;Combine.AnyPublisher&lt;Swift.Array&lt;Glance.Quote&gt;, Swift.Never&gt;, Glance.QuoteFeature.Action&gt; in closure #1 (inout Glance.QuoteFeature.State, Glance.QuoteFeature.Action) -&gt; ComposableArchitecture.Effect&lt;Glance.QuoteFeature.Action&gt; in Glance.QuoteFeature.body.getter : some"
+                  moduleName = "Glance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devmac2/Documents/apps/Glance/Glance/Root/Main/Matches/Quote/QuoteFeature.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "7824E8EC-40C7-49D5-B836-40F3B4F139CD - 753885b1d0f87954"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; Combine.Publishers.Map&lt;Combine.AnyPublisher&lt;Swift.Array&lt;Glance.Quote&gt;, Swift.Never&gt;, Glance.QuoteFeature.Action&gt; in closure #1 (inout Glance.QuoteFeature.State, Glance.QuoteFeature.Action) -&gt; ComposableArchitecture.Effect&lt;Glance.QuoteFeature.Action&gt; in Glance.QuoteFeature.body.getter : some"
+                  moduleName = "Glance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devmac2/Documents/apps/Glance/Glance/Root/Main/Matches/Quote/QuoteFeature.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "7824E8EC-40C7-49D5-B836-40F3B4F139CD - 753885b1d0f87996"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; Combine.Publishers.Map&lt;Combine.AnyPublisher&lt;Swift.Array&lt;Glance.Quote&gt;, Swift.Never&gt;, Glance.QuoteFeature.Action&gt; in closure #1 (inout Glance.QuoteFeature.State, Glance.QuoteFeature.Action) -&gt; ComposableArchitecture.Effect&lt;Glance.QuoteFeature.Action&gt; in Glance.QuoteFeature.body.getter : some"
+                  moduleName = "Glance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devmac2/Documents/apps/Glance/Glance/Root/Main/Matches/Quote/QuoteFeature.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "48">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "99108386-3A8A-4195-A8BB-6E2786FBAB93"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Glance/Root/Main/Matches/ProfileList/ProfileListFeature.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "86"
+            endingLineNumber = "86"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "99108386-3A8A-4195-A8BB-6E2786FBAB93 - 3f27072552532b08"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; Combine.Publishers.Map&lt;Combine.PassthroughSubject&lt;Swift.Array&lt;Swift.String&gt;, Swift.Never&gt;, Glance.ProfileListFeature.Action&gt; in closure #1 (inout Glance.ProfileListFeature.State, Glance.ProfileListFeature.Action) -&gt; ComposableArchitecture.Effect&lt;Glance.ProfileListFeature.Action&gt; in Glance.ProfileListFeature.body.getter : some"
+                  moduleName = "Glance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devmac2/Documents/apps/Glance/Glance/Root/Main/Matches/ProfileList/ProfileListFeature.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "74"
+                  endingLineNumber = "74"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "99108386-3A8A-4195-A8BB-6E2786FBAB93 - d93ebe81f83c01ca"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #1 @Sendable (ComposableArchitecture.Send&lt;Glance.ProfileListFeature.Action&gt;) async -&gt; () in closure #1 (inout Glance.ProfileListFeature.State, Glance.ProfileListFeature.Action) -&gt; ComposableArchitecture.Effect&lt;Glance.ProfileListFeature.Action&gt; in Glance.ProfileListFeature.body.getter : some"
+                  moduleName = "Glance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devmac2/Documents/apps/Glance/Glance/Root/Main/Matches/ProfileList/ProfileListFeature.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "74"
+                  endingLineNumber = "74"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "99108386-3A8A-4195-A8BB-6E2786FBAB93 - 7aa43586ddd6f039"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for closure #1 @Sendable (ComposableArchitecture.Send&lt;Glance.ProfileListFeature.Action&gt;) async -&gt; () in closure #1 (inout Glance.ProfileListFeature.State, Glance.ProfileListFeature.Action) -&gt; ComposableArchitecture.Effect&lt;Glance.ProfileListFeature.Action&gt; in Glance.ProfileListFeature.body.getter : some"
+                  moduleName = "Glance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devmac2/Documents/apps/Glance/Glance/Root/Main/Matches/ProfileList/ProfileListFeature.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "74"
+                  endingLineNumber = "74"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "99108386-3A8A-4195-A8BB-6E2786FBAB93 - c099702e3276cdc8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable (ComposableArchitecture.Send&lt;Glance.ProfileListFeature.Action&gt;) async -&gt; () in closure #1 (inout Glance.ProfileListFeature.State, Glance.ProfileListFeature.Action) -&gt; ComposableArchitecture.Effect&lt;Glance.ProfileListFeature.Action&gt; in Glance.ProfileListFeature.body.getter : some"
+                  moduleName = "Glance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devmac2/Documents/apps/Glance/Glance/Root/Main/Matches/ProfileList/ProfileListFeature.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "74"
+                  endingLineNumber = "74"
+                  offsetFromSymbolStart = "84">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3CF2461C-30C3-40A1-B6C2-1498F6F90D91"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Glance/Services/Notification/NotificationManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "newUsersNearby(uids:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "09C50C78-F6C5-49BF-998D-8E6FF73046B9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Glance/Root/Main/Matches/MatchesFeature.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "82"
+            endingLineNumber = "82"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "84332B75-4D5E-4812-9285-37616FC83F1E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Glance/Root/Main/Matches/MatchesFeature.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "83"
+            endingLineNumber = "83"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EEEB0D88-6C2F-454C-ACF7-57E75322D842"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Glance/Root/Main/Matches/MatchesFeature.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "84"
+            endingLineNumber = "84"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E83943C3-3A5C-47CC-AA5A-7E52EEC34B29"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Glance/Root/Main/Matches/ProfileList/ProfileListFeature.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "120"
+            endingLineNumber = "120"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "E83943C3-3A5C-47CC-AA5A-7E52EEC34B29 - c0e821d69537c9c1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (inout Glance.ProfileListFeature.State, Glance.ProfileListFeature.Action) -&gt; ComposableArchitecture.Effect&lt;Glance.ProfileListFeature.Action&gt; in Glance.ProfileListFeature.body.getter : some"
+                  moduleName = "Glance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devmac2/Documents/apps/Glance/Glance/Root/Main/Matches/ProfileList/ProfileListFeature.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "92"
+                  endingLineNumber = "92"
+                  offsetFromSymbolStart = "1984">
+               </Location>
+               <Location
+                  uuid = "E83943C3-3A5C-47CC-AA5A-7E52EEC34B29 - 48e0a34571c1932b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Glance.User) -&gt; Swift.Bool in closure #1 (inout Glance.ProfileListFeature.State, Glance.ProfileListFeature.Action) -&gt; ComposableArchitecture.Effect&lt;Glance.ProfileListFeature.Action&gt; in Glance.ProfileListFeature.body.getter : some"
+                  moduleName = "Glance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devmac2/Documents/apps/Glance/Glance/Root/Main/Matches/ProfileList/ProfileListFeature.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "92"
+                  endingLineNumber = "92"
+                  offsetFromSymbolStart = "132">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8AD31B94-A4FF-4FD3-AF88-B671FE1C2019"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Glance/Root/Main/Matches/ProfileList/ProfileListFeature.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "126"
+            endingLineNumber = "126"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "281E6FEB-847D-4BA4-AD2F-19C98571040F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Glance/Root/Main/Matches/Profile/ProfileView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "286"
+            endingLineNumber = "286"
+            landmarkName = "F_animateDisappear()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6F270B53-4CBC-4EF2-8E5A-C0234A06CAF5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Glance/Root/Main/Matches/ProfileList/ProfileListItem.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "133"
+            endingLineNumber = "133"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "79CE05DD-4385-4AF7-A735-1F0122FDA92A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Glance/Root/Main/Matches/ProfileList/ProfileListItem.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "130"
+            endingLineNumber = "130"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "79CE05DD-4385-4AF7-A735-1F0122FDA92A - 9e7a27f1fc28827d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (CoreGraphics.CGFloat, CoreGraphics.CGFloat) -&gt; () in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.onAppear(perform: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; some&gt;&gt;.0 in Glance.ProfileListItem.body.getter : some"
+                  moduleName = "Glance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devmac2/Documents/apps/Glance/Glance/Root/Main/Matches/ProfileList/ProfileListItem.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "130"
+                  endingLineNumber = "130"
+                  offsetFromSymbolStart = "228">
+               </Location>
+               <Location
+                  uuid = "79CE05DD-4385-4AF7-A735-1F0122FDA92A - 9e7a27f1fc28827d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (CoreGraphics.CGFloat, CoreGraphics.CGFloat) -&gt; () in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.onAppear(perform: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; some&gt;&gt;.0 in Glance.ProfileListItem.body.getter : some"
+                  moduleName = "Glance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devmac2/Documents/apps/Glance/Glance/Root/Main/Matches/ProfileList/ProfileListItem.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "130"
+                  endingLineNumber = "130"
+                  offsetFromSymbolStart = "176">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FE1E61E4-99FC-4607-BA43-9EAC7B788B9D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Glance/Root/Main/Matches/Profile/ProfileView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "246"
+            endingLineNumber = "246"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AFDB110F-3285-41AA-A997-53148FB5E653"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Glance/Root/Main/Matches/ProfileList/ProfileListView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "63"
+            endingLineNumber = "63"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "AFDB110F-3285-41AA-A997-53148FB5E653 - 77b7e022a9b0eb37"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 (Foundation.Notification) -&gt; () in Glance.ProfileListView.body.getter : some"
+                  moduleName = "Glance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devmac2/Documents/apps/Glance/Glance/Root/Main/Matches/ProfileList/ProfileListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "356">
+               </Location>
+               <Location
+                  uuid = "AFDB110F-3285-41AA-A997-53148FB5E653 - 77b7e022a9b0eb37"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 (Foundation.Notification) -&gt; () in Glance.ProfileListView.body.getter : some"
+                  moduleName = "Glance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devmac2/Documents/apps/Glance/Glance/Root/Main/Matches/ProfileList/ProfileListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "392">
+               </Location>
+               <Location
+                  uuid = "AFDB110F-3285-41AA-A997-53148FB5E653 - 77b7e022a9b0eb37"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 (Foundation.Notification) -&gt; () in Glance.ProfileListView.body.getter : some"
+                  moduleName = "Glance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devmac2/Documents/apps/Glance/Glance/Root/Main/Matches/ProfileList/ProfileListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "680">
+               </Location>
+               <Location
+                  uuid = "AFDB110F-3285-41AA-A997-53148FB5E653 - d32be7cad542c567"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 (Foundation.Notification) -&gt; () in GlanceTests.ProfileListView.body.getter : some"
+                  moduleName = "GlanceTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devmac2/Documents/apps/Glance/Glance/Root/Main/Matches/ProfileList/ProfileListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "392">
+               </Location>
+               <Location
+                  uuid = "AFDB110F-3285-41AA-A997-53148FB5E653 - d32be7cad542c567"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 (Foundation.Notification) -&gt; () in GlanceTests.ProfileListView.body.getter : some"
+                  moduleName = "GlanceTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devmac2/Documents/apps/Glance/Glance/Root/Main/Matches/ProfileList/ProfileListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "680">
+               </Location>
+               <Location
+                  uuid = "AFDB110F-3285-41AA-A997-53148FB5E653 - 77b7e022a9b0eb16"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 (Foundation.Notification) -&gt; () in Glance.ProfileListView.body.getter : some"
+                  moduleName = "Glance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devmac2/Documents/apps/Glance/Glance/Root/Main/Matches/ProfileList/ProfileListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "356">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "52D4DC60-020C-4096-BFEC-5BCB647EE666"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Glance/Root/Main/Matches/ProfileList/ProfileListFeature.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "108"
+            endingLineNumber = "108"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "52D4DC60-020C-4096-BFEC-5BCB647EE666 - c0e821d69537caae"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (inout Glance.ProfileListFeature.State, Glance.ProfileListFeature.Action) -&gt; ComposableArchitecture.Effect&lt;Glance.ProfileListFeature.Action&gt; in Glance.ProfileListFeature.body.getter : some"
+                  moduleName = "Glance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devmac2/Documents/apps/Glance/Glance/Root/Main/Matches/ProfileList/ProfileListFeature.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "97"
+                  endingLineNumber = "97"
+                  offsetFromSymbolStart = "1756">
+               </Location>
+               <Location
+                  uuid = "52D4DC60-020C-4096-BFEC-5BCB647EE666 - 649d3036ce0f2e45"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 (Glance.User) -&gt; Swift.Bool in closure #1 (inout Glance.ProfileListFeature.State, Glance.ProfileListFeature.Action) -&gt; ComposableArchitecture.Effect&lt;Glance.ProfileListFeature.Action&gt; in Glance.ProfileListFeature.body.getter : some"
+                  moduleName = "Glance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devmac2/Documents/apps/Glance/Glance/Root/Main/Matches/ProfileList/ProfileListFeature.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "97"
+                  endingLineNumber = "97"
+                  offsetFromSymbolStart = "132">
+               </Location>
+               <Location
+                  uuid = "52D4DC60-020C-4096-BFEC-5BCB647EE666 - c0e821d69537caae"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (inout Glance.ProfileListFeature.State, Glance.ProfileListFeature.Action) -&gt; ComposableArchitecture.Effect&lt;Glance.ProfileListFeature.Action&gt; in Glance.ProfileListFeature.body.getter : some"
+                  moduleName = "Glance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devmac2/Documents/apps/Glance/Glance/Root/Main/Matches/ProfileList/ProfileListFeature.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "97"
+                  endingLineNumber = "97"
+                  offsetFromSymbolStart = "1472">
+               </Location>
+               <Location
+                  uuid = "52D4DC60-020C-4096-BFEC-5BCB647EE666 - c0e821d69537cb74"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (inout Glance.ProfileListFeature.State, Glance.ProfileListFeature.Action) -&gt; ComposableArchitecture.Effect&lt;Glance.ProfileListFeature.Action&gt; in Glance.ProfileListFeature.body.getter : some"
+                  moduleName = "Glance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devmac2/Documents/apps/Glance/Glance/Root/Main/Matches/ProfileList/ProfileListFeature.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "103"
+                  endingLineNumber = "103"
+                  offsetFromSymbolStart = "1500">
+               </Location>
+               <Location
+                  uuid = "52D4DC60-020C-4096-BFEC-5BCB647EE666 - c0e821d69537cb74"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (inout Glance.ProfileListFeature.State, Glance.ProfileListFeature.Action) -&gt; ComposableArchitecture.Effect&lt;Glance.ProfileListFeature.Action&gt; in Glance.ProfileListFeature.body.getter : some"
+                  moduleName = "Glance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devmac2/Documents/apps/Glance/Glance/Root/Main/Matches/ProfileList/ProfileListFeature.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "103"
+                  endingLineNumber = "103"
+                  offsetFromSymbolStart = "1648">
+               </Location>
+               <Location
+                  uuid = "52D4DC60-020C-4096-BFEC-5BCB647EE666 - b79dc552c475ddb4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (inout GlanceTests.ProfileListFeature.State, GlanceTests.ProfileListFeature.Action) -&gt; ComposableArchitecture.Effect&lt;GlanceTests.ProfileListFeature.Action&gt; in GlanceTests.ProfileListFeature.body.getter : some"
+                  moduleName = "GlanceTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devmac2/Documents/apps/Glance/Glance/Root/Main/Matches/ProfileList/ProfileListFeature.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "103"
+                  endingLineNumber = "103"
+                  offsetFromSymbolStart = "1648">
+               </Location>
+               <Location
+                  uuid = "52D4DC60-020C-4096-BFEC-5BCB647EE666 - c0e821d69537cbd1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (inout Glance.ProfileListFeature.State, Glance.ProfileListFeature.Action) -&gt; ComposableArchitecture.Effect&lt;Glance.ProfileListFeature.Action&gt; in Glance.ProfileListFeature.body.getter : some"
+                  moduleName = "Glance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devmac2/Documents/apps/Glance/Glance/Root/Main/Matches/ProfileList/ProfileListFeature.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "108"
+                  endingLineNumber = "108"
+                  offsetFromSymbolStart = "1648">
+               </Location>
+               <Location
+                  uuid = "52D4DC60-020C-4096-BFEC-5BCB647EE666 - b79dc552c475dd11"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (inout GlanceTests.ProfileListFeature.State, GlanceTests.ProfileListFeature.Action) -&gt; ComposableArchitecture.Effect&lt;GlanceTests.ProfileListFeature.Action&gt; in GlanceTests.ProfileListFeature.body.getter : some"
+                  moduleName = "GlanceTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devmac2/Documents/apps/Glance/Glance/Root/Main/Matches/ProfileList/ProfileListFeature.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "108"
+                  endingLineNumber = "108"
+                  offsetFromSymbolStart = "1648">
+               </Location>
+               <Location
+                  uuid = "52D4DC60-020C-4096-BFEC-5BCB647EE666 - c0e821d69537cbd1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (inout Glance.ProfileListFeature.State, Glance.ProfileListFeature.Action) -&gt; ComposableArchitecture.Effect&lt;Glance.ProfileListFeature.Action&gt; in Glance.ProfileListFeature.body.getter : some"
+                  moduleName = "Glance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devmac2/Documents/apps/Glance/Glance/Root/Main/Matches/ProfileList/ProfileListFeature.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "108"
+                  endingLineNumber = "108"
+                  offsetFromSymbolStart = "1500">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2AF06FCC-14BE-442D-80DD-1A7DA2F3360E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Glance/Root/Main/Matches/ProfileList/Profile/ProfileFeature.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "95"
+            endingLineNumber = "95"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A94A5B39-7640-4204-BF2C-406D611956D3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Glance/Root/Main/Matches/ProfileList/ProfileListItem.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "134"
+            endingLineNumber = "134"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "A94A5B39-7640-4204-BF2C-406D611956D3 - 9e7a27f1fc2883f9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (CoreGraphics.CGFloat, CoreGraphics.CGFloat) -&gt; () in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.onAppear(perform: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; some&gt;&gt;.0 in Glance.ProfileListItem.body.getter : some"
+                  moduleName = "Glance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devmac2/Documents/apps/Glance/Glance/Root/Main/Matches/ProfileList/ProfileListItem.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "134"
+                  endingLineNumber = "134"
+                  offsetFromSymbolStart = "288">
+               </Location>
+               <Location
+                  uuid = "A94A5B39-7640-4204-BF2C-406D611956D3 - 9e7a27f1fc2883f9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (CoreGraphics.CGFloat, CoreGraphics.CGFloat) -&gt; () in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.onAppear(perform: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; some&gt;&gt;.0 in Glance.ProfileListItem.body.getter : some"
+                  moduleName = "Glance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devmac2/Documents/apps/Glance/Glance/Root/Main/Matches/ProfileList/ProfileListItem.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "134"
+                  endingLineNumber = "134"
+                  offsetFromSymbolStart = "340">
+               </Location>
+               <Location
+                  uuid = "A94A5B39-7640-4204-BF2C-406D611956D3 - 4181afca7a0fecb6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (CoreGraphics.CGFloat, CoreGraphics.CGFloat) -&gt; () in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.onAppear(perform: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; some&gt;&gt;.0 in GlanceTests.ProfileListItem.body.getter : some"
+                  moduleName = "GlanceTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devmac2/Documents/apps/Glance/Glance/Root/Main/Matches/ProfileList/ProfileListItem.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "134"
+                  endingLineNumber = "134"
+                  offsetFromSymbolStart = "340">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D8D71414-98BB-41ED-A79D-2040711A31CF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Glance/Root/Main/Matches/ProfileList/Profile/ProfileFeature.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "77"
+            endingLineNumber = "77"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "D8D71414-98BB-41ED-A79D-2040711A31CF - 45a00ee692311535"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (inout Glance.ProfileFeature.State, Glance.ProfileFeature.Action) -&gt; ComposableArchitecture.Effect&lt;Glance.ProfileFeature.Action&gt; in Glance.ProfileFeature.body.getter : some"
+                  moduleName = "Glance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devmac2/Documents/apps/Glance/Glance/Root/Main/Matches/ProfileList/Profile/ProfileFeature.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "73"
+                  endingLineNumber = "73"
+                  offsetFromSymbolStart = "416">
+               </Location>
+               <Location
+                  uuid = "D8D71414-98BB-41ED-A79D-2040711A31CF - 45a00ee692311535"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (inout Glance.ProfileFeature.State, Glance.ProfileFeature.Action) -&gt; ComposableArchitecture.Effect&lt;Glance.ProfileFeature.Action&gt; in Glance.ProfileFeature.body.getter : some"
+                  moduleName = "Glance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devmac2/Documents/apps/Glance/Glance/Root/Main/Matches/ProfileList/Profile/ProfileFeature.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "73"
+                  endingLineNumber = "73"
+                  offsetFromSymbolStart = "500">
+               </Location>
+               <Location
+                  uuid = "D8D71414-98BB-41ED-A79D-2040711A31CF - c75b31436babcde5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (inout GlanceTests.ProfileFeature.State, GlanceTests.ProfileFeature.Action) -&gt; ComposableArchitecture.Effect&lt;GlanceTests.ProfileFeature.Action&gt; in GlanceTests.ProfileFeature.body.getter : some"
+                  moduleName = "GlanceTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devmac2/Documents/apps/Glance/Glance/Root/Main/Matches/ProfileList/Profile/ProfileFeature.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "73"
+                  endingLineNumber = "73"
+                  offsetFromSymbolStart = "500">
+               </Location>
+               <Location
+                  uuid = "D8D71414-98BB-41ED-A79D-2040711A31CF - 45a00ee6923115a8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (inout Glance.ProfileFeature.State, Glance.ProfileFeature.Action) -&gt; ComposableArchitecture.Effect&lt;Glance.ProfileFeature.Action&gt; in Glance.ProfileFeature.body.getter : some"
+                  moduleName = "Glance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devmac2/Documents/apps/Glance/Glance/Root/Main/Matches/ProfileList/Profile/ProfileFeature.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "500">
+               </Location>
+               <Location
+                  uuid = "D8D71414-98BB-41ED-A79D-2040711A31CF - c75b31436babcd78"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (inout GlanceTests.ProfileFeature.State, GlanceTests.ProfileFeature.Action) -&gt; ComposableArchitecture.Effect&lt;GlanceTests.ProfileFeature.Action&gt; in GlanceTests.ProfileFeature.body.getter : some"
+                  moduleName = "GlanceTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devmac2/Documents/apps/Glance/Glance/Root/Main/Matches/ProfileList/Profile/ProfileFeature.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "500">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1DFF8835-3B9B-41DB-B489-B6A52C181370"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Glance/Services/Places/GooglePlacesService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "116"
+            endingLineNumber = "116"
+            landmarkName = "fetchPlaces(type:keyword:radius:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "83F7D1F1-F39E-48DF-A64B-B96625C31DE7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Glance/Services/Places/GooglePlacesService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "145"
+            endingLineNumber = "145"
+            landmarkName = "fetchPlaces(type:keyword:radius:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "83F7D1F1-F39E-48DF-A64B-B96625C31DE7 - 56f8aa21eeee762"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Glance.GooglePlacesService.fetchPlaces(type: Swift.String, keyword: Swift.Optional&lt;Swift.String&gt;, radius: Swift.Int) -&gt; ()"
+                  moduleName = "Glance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devmac2/Documents/apps/Glance/Glance/Services/Places/GooglePlacesService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "134"
+                  endingLineNumber = "134"
+                  offsetFromSymbolStart = "368">
+               </Location>
+               <Location
+                  uuid = "83F7D1F1-F39E-48DF-A64B-B96625C31DE7 - 56f8aa21eeee762"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Glance.GooglePlacesService.fetchPlaces(type: Swift.String, keyword: Swift.Optional&lt;Swift.String&gt;, radius: Swift.Int) -&gt; ()"
+                  moduleName = "Glance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devmac2/Documents/apps/Glance/Glance/Services/Places/GooglePlacesService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "134"
+                  endingLineNumber = "134"
+                  offsetFromSymbolStart = "652">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0DA1FF7B-3CC2-4D4B-9B55-A81EA55321A8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Glance/Services/Places/GooglePlacesService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "108"
+            endingLineNumber = "108"
+            landmarkName = "fetchPlaces(type:keyword:radius:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "33BF1C76-EEC5-4D12-8776-F2F662CC9A8A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Glance/Root/Main/Status/PickLocation/PickLocationFeature.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "67"
+            endingLineNumber = "67"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "33BF1C76-EEC5-4D12-8776-F2F662CC9A8A - 4af6bf3b354493b4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (inout Glance.PickLocationFeature.State, Glance.PickLocationFeature.Action) -&gt; ComposableArchitecture.Effect&lt;Glance.PickLocationFeature.Action&gt; in Glance.PickLocationFeature.body.getter : some"
+                  moduleName = "Glance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devmac2/Documents/apps/Glance/Glance/Root/Main/Status/PickLocation/PickLocationFeature.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "69"
+                  endingLineNumber = "69"
+                  offsetFromSymbolStart = "1352">
+               </Location>
+               <Location
+                  uuid = "33BF1C76-EEC5-4D12-8776-F2F662CC9A8A - 59535a423d12b31"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; Combine.Publishers.Map&lt;Combine.Publishers.ReceiveOn&lt;Combine.PassthroughSubject&lt;Swift.Array&lt;Glance.GooglePlacesHTTPResponse.PlaceResult&gt;, Swift.Never&gt;, __C.NSRunLoop&gt;, Glance.PickLocationFeature.Action&gt; in closure #1 (inout Glance.PickLocationFeature.State, Glance.PickLocationFeature.Action) -&gt; ComposableArchitecture.Effect&lt;Glance.PickLocationFeature.Action&gt; in Glance.PickLocationFeature.body.getter : some"
+                  moduleName = "Glance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devmac2/Documents/apps/Glance/Glance/Root/Main/Status/PickLocation/PickLocationFeature.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "396">
+               </Location>
+               <Location
+                  uuid = "33BF1C76-EEC5-4D12-8776-F2F662CC9A8A - 9e6282a20a3175f4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;Glance.GooglePlacesHTTPResponse.PlaceResult&gt;) -&gt; Glance.PickLocationFeature.Action in closure #1 () -&gt; Combine.Publishers.Map&lt;Combine.Publishers.ReceiveOn&lt;Combine.PassthroughSubject&lt;Swift.Array&lt;Glance.GooglePlacesHTTPResponse.PlaceResult&gt;, Swift.Never&gt;, __C.NSRunLoop&gt;, Glance.PickLocationFeature.Action&gt; in closure #1 (inout Glance.PickLocationFeature.State, Glance.PickLocationFeature.Action) -&gt; ComposableArchitecture.Effect&lt;Glance.PickLocationFeature.Action&gt; in Glance.PickLocationFeature.body.getter : some"
+                  moduleName = "Glance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devmac2/Documents/apps/Glance/Glance/Root/Main/Status/PickLocation/PickLocationFeature.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "33BF1C76-EEC5-4D12-8776-F2F662CC9A8A - 4acbc5a6e2bb2435"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Glance.GooglePlacesHTTPResponse.PlaceResult) -&gt; Glance.Location in closure #1 (Swift.Array&lt;Glance.GooglePlacesHTTPResponse.PlaceResult&gt;) -&gt; Glance.PickLocationFeature.Action in closure #1 () -&gt; Combine.Publishers.Map&lt;Combine.Publishers.ReceiveOn&lt;Combine.PassthroughSubject&lt;Swift.Array&lt;Glance.GooglePlacesHTTPResponse.PlaceResult&gt;, Swift.Never&gt;, __C.NSRunLoop&gt;, Glance.PickLocationFeature.Action&gt; in closure #1 (inout Glance.PickLocationFeature.State, Glance.PickLocationFeature.Action) -&gt; ComposableArchitecture.Effect&lt;Glance.PickLocationFeature.Action&gt; in Glance.PickLocationFeature.body.getter : some"
+                  moduleName = "Glance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devmac2/Documents/apps/Glance/Glance/Root/Main/Status/PickLocation/PickLocationFeature.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "52">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "014D1EB4-B6C8-4A77-A622-E1B1591E88A7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Glance/Root/Main/Status/PickLocation/PickLocationFeature.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "100"
+            endingLineNumber = "100"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "014D1EB4-B6C8-4A77-A622-E1B1591E88A7 - 4af6bf3b35449ebd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (inout Glance.PickLocationFeature.State, Glance.PickLocationFeature.Action) -&gt; ComposableArchitecture.Effect&lt;Glance.PickLocationFeature.Action&gt; in Glance.PickLocationFeature.body.getter : some"
+                  moduleName = "Glance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devmac2/Documents/apps/Glance/Glance/Root/Main/Status/PickLocation/PickLocationFeature.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "92"
+                  endingLineNumber = "92"
+                  offsetFromSymbolStart = "2144">
+               </Location>
+               <Location
+                  uuid = "014D1EB4-B6C8-4A77-A622-E1B1591E88A7 - 4af6bf3b35449e63"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (inout Glance.PickLocationFeature.State, Glance.PickLocationFeature.Action) -&gt; ComposableArchitecture.Effect&lt;Glance.PickLocationFeature.Action&gt; in Glance.PickLocationFeature.body.getter : some"
+                  moduleName = "Glance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devmac2/Documents/apps/Glance/Glance/Root/Main/Status/PickLocation/PickLocationFeature.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "90"
+                  endingLineNumber = "90"
+                  offsetFromSymbolStart = "2076">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A27AE93E-FB77-4FD5-A952-5D71C41A6036"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Glance/Root/Main/Status/PickLocation/PickLocationFeature.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "101"
+            endingLineNumber = "101"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "76A8EA8B-C99F-4E07-B80F-DC7F3B5AC84F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Glance/Root/Main/Status/PickLocation/PickLocationFeature.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "102"
+            endingLineNumber = "102"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FA6785B2-F2ED-4581-ACF5-D801EE47F030"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Glance/Root/Main/MainFeature.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "67"
+            endingLineNumber = "67"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "62478DAC-44C7-45F8-BBA9-1A40E80564F4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Glance/Root/SignIn/SignInView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AAD39409-FB97-4A87-B381-4154C61ED17D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GlanceTests/SurveyFeatureTest.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "test_survey_failure_invalidName()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "11C52F90-B24F-4090-8821-5D2D4482A4AC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Glance/Services/Firebase/LiveFirebaseService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "126"
+            endingLineNumber = "126"
+            landmarkName = "loadUsers()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F188534D-BA25-448C-9EE0-BD65C57B8815"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Glance/Services/Firebase/LiveFirebaseService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "92"
+            endingLineNumber = "92"
+            landmarkName = "loadUsers(uids:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1CBE3179-BEC5-471E-9504-6625A1F3F1BD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Glance/Services/Firebase/LiveFirebaseService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "118"
+            endingLineNumber = "118"
+            landmarkName = "loadUsers()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1CBE3179-BEC5-471E-9504-6625A1F3F1BD - 38f436b56b2cd53d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for Glance.LiveFirebaseService.loadUsers() async -&gt; Swift.Result&lt;Swift.Array&lt;Glance.User&gt;, Glance.AppError&gt;"
+                  moduleName = "Glance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devmac2/Documents/apps/Glance/Glance/Services/Firebase/LiveFirebaseService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "118"
+                  endingLineNumber = "118"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "1CBE3179-BEC5-471E-9504-6625A1F3F1BD - d2994dfcd3741923"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Glance.LiveFirebaseService.loadUsers() async -&gt; Swift.Result&lt;Swift.Array&lt;Glance.User&gt;, Glance.AppError&gt;"
+                  moduleName = "Glance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devmac2/Documents/apps/Glance/Glance/Services/Firebase/LiveFirebaseService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "118"
+                  endingLineNumber = "118"
+                  offsetFromSymbolStart = "284">
+               </Location>
+               <Location
+                  uuid = "1CBE3179-BEC5-471E-9504-6625A1F3F1BD - 66c309b7f607b22"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for Glance.LiveFirebaseService.loadUsers() async -&gt; Swift.Result&lt;Swift.Array&lt;Glance.User&gt;, Glance.AppError&gt;"
+                  moduleName = "Glance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devmac2/Documents/apps/Glance/Glance/Services/Firebase/LiveFirebaseService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "118"
+                  endingLineNumber = "118"
+                  offsetFromSymbolStart = "56">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5A582E9E-163B-422A-A27D-B0F0EFFEB3C0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Glance/Services/Firebase/LiveFirebaseService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "129"
+            endingLineNumber = "129"
+            landmarkName = "loadUsers()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5A582E9E-163B-422A-A27D-B0F0EFFEB3C0 - d2994dfcd3741b8e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Glance.LiveFirebaseService.loadUsers() async -&gt; Swift.Result&lt;Swift.Array&lt;Glance.User&gt;, Glance.AppError&gt;"
+                  moduleName = "Glance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devmac2/Documents/apps/Glance/Glance/Services/Firebase/LiveFirebaseService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "129"
+                  endingLineNumber = "129"
+                  offsetFromSymbolStart = "664">
+               </Location>
+               <Location
+                  uuid = "5A582E9E-163B-422A-A27D-B0F0EFFEB3C0 - 66c309b7f60798f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for Glance.LiveFirebaseService.loadUsers() async -&gt; Swift.Result&lt;Swift.Array&lt;Glance.User&gt;, Glance.AppError&gt;"
+                  moduleName = "Glance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devmac2/Documents/apps/Glance/Glance/Services/Firebase/LiveFirebaseService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "129"
+                  endingLineNumber = "129"
+                  offsetFromSymbolStart = "204">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EAC4C4E2-1F35-447F-B4FF-9EE6CB888C4C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Glance/Services/Firebase/LiveFirebaseService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "122"
+            endingLineNumber = "122"
+            landmarkName = "loadUsers()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EAC4C4E2-1F35-447F-B4FF-9EE6CB888C4C - d2994dfcd37418a7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Glance.LiveFirebaseService.loadUsers() async -&gt; Swift.Result&lt;Swift.Array&lt;Glance.User&gt;, Glance.AppError&gt;"
+                  moduleName = "Glance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devmac2/Documents/apps/Glance/Glance/Services/Firebase/LiveFirebaseService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "122"
+                  endingLineNumber = "122"
+                  offsetFromSymbolStart = "116">
+               </Location>
+               <Location
+                  uuid = "EAC4C4E2-1F35-447F-B4FF-9EE6CB888C4C - 584a58bda544ae59"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.FIRQueryDocumentSnapshot) throws -&gt; Glance.User in Glance.LiveFirebaseService.loadUsers() async -&gt; Swift.Result&lt;Swift.Array&lt;Glance.User&gt;, Glance.AppError&gt;"
+                  moduleName = "Glance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devmac2/Documents/apps/Glance/Glance/Services/Firebase/LiveFirebaseService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "123"
+                  endingLineNumber = "123"
+                  offsetFromSymbolStart = "40">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "381E08BE-C3DE-423C-BD76-321F1E199F44"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Glance/Services/Firebase/LiveFirebaseService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "119"
+            endingLineNumber = "119"
+            landmarkName = "loadUsers()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "381E08BE-C3DE-423C-BD76-321F1E199F44 - 38f436b56b2cd57b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for Glance.LiveFirebaseService.loadUsers() async -&gt; Swift.Result&lt;Swift.Array&lt;Glance.User&gt;, Glance.AppError&gt;"
+                  moduleName = "Glance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devmac2/Documents/apps/Glance/Glance/Services/Firebase/LiveFirebaseService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "120"
+                  endingLineNumber = "120"
+                  offsetFromSymbolStart = "236">
+               </Location>
+               <Location
+                  uuid = "381E08BE-C3DE-423C-BD76-321F1E199F44 - b3a1212a5630b7c2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for Glance.LiveFirebaseService.loadUsers() async -&gt; Swift.Result&lt;Swift.Array&lt;Glance.User&gt;, Glance.AppError&gt;"
+                  moduleName = "Glance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devmac2/Documents/apps/Glance/Glance/Services/Firebase/LiveFirebaseService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "120"
+                  endingLineNumber = "120"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "381E08BE-C3DE-423C-BD76-321F1E199F44 - d2994dfcd3741965"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Glance.LiveFirebaseService.loadUsers() async -&gt; Swift.Result&lt;Swift.Array&lt;Glance.User&gt;, Glance.AppError&gt;"
+                  moduleName = "Glance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devmac2/Documents/apps/Glance/Glance/Services/Firebase/LiveFirebaseService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "120"
+                  endingLineNumber = "120"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  uuid = "381E08BE-C3DE-423C-BD76-321F1E199F44 - 66c309b7f607b22"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for Glance.LiveFirebaseService.loadUsers() async -&gt; Swift.Result&lt;Swift.Array&lt;Glance.User&gt;, Glance.AppError&gt;"
+                  moduleName = "Glance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devmac2/Documents/apps/Glance/Glance/Services/Firebase/LiveFirebaseService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "118"
+                  endingLineNumber = "118"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  uuid = "381E08BE-C3DE-423C-BD76-321F1E199F44 - 66c309b7f607b64"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for Glance.LiveFirebaseService.loadUsers() async -&gt; Swift.Result&lt;Swift.Array&lt;Glance.User&gt;, Glance.AppError&gt;"
+                  moduleName = "Glance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devmac2/Documents/apps/Glance/Glance/Services/Firebase/LiveFirebaseService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "120"
+                  endingLineNumber = "120"
+                  offsetFromSymbolStart = "68">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9715663C-C5E7-4F07-BC5A-907A00C16C17"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Glance/Services/Firebase/LiveFirebaseService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "93"
+            endingLineNumber = "93"
+            landmarkName = "loadUsers(uids:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9715663C-C5E7-4F07-BC5A-907A00C16C17 - 92c1661ccf85c572"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for Glance.LiveFirebaseService.loadUsers(uids: Swift.Array&lt;Swift.String&gt;) async -&gt; Swift.Result&lt;Swift.Array&lt;Glance.User&gt;, Glance.AppError&gt;"
+                  moduleName = "Glance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devmac2/Documents/apps/Glance/Glance/Services/Firebase/LiveFirebaseService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "93"
+                  endingLineNumber = "93"
+                  offsetFromSymbolStart = "228">
+               </Location>
+               <Location
+                  uuid = "9715663C-C5E7-4F07-BC5A-907A00C16C17 - f1c83e5a1dc3626a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for Glance.LiveFirebaseService.loadUsers(uids: Swift.Array&lt;Swift.String&gt;) async -&gt; Swift.Result&lt;Swift.Array&lt;Glance.User&gt;, Glance.AppError&gt;"
+                  moduleName = "Glance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devmac2/Documents/apps/Glance/Glance/Services/Firebase/LiveFirebaseService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "93"
+                  endingLineNumber = "93"
+                  offsetFromSymbolStart = "60">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CC70342B-4099-441B-A5E5-A7516BFBDDB7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Glance/Root/Main/Matches/ProfileList/ProfileListFeature.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "94"
+            endingLineNumber = "94"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "CC70342B-4099-441B-A5E5-A7516BFBDDB7 - c0e821d69537ca4d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (inout Glance.ProfileListFeature.State, Glance.ProfileListFeature.Action) -&gt; ComposableArchitecture.Effect&lt;Glance.ProfileListFeature.Action&gt; in Glance.ProfileListFeature.body.getter : some"
+                  moduleName = "Glance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devmac2/Documents/apps/Glance/Glance/Root/Main/Matches/ProfileList/ProfileListFeature.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "96"
+                  endingLineNumber = "96"
+                  offsetFromSymbolStart = "996">
+               </Location>
+               <Location
+                  uuid = "CC70342B-4099-441B-A5E5-A7516BFBDDB7 - c0e821d69537ca4d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (inout Glance.ProfileListFeature.State, Glance.ProfileListFeature.Action) -&gt; ComposableArchitecture.Effect&lt;Glance.ProfileListFeature.Action&gt; in Glance.ProfileListFeature.body.getter : some"
+                  moduleName = "Glance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devmac2/Documents/apps/Glance/Glance/Root/Main/Matches/ProfileList/ProfileListFeature.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "96"
+                  endingLineNumber = "96"
+                  offsetFromSymbolStart = "1040">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "55EF8AA6-71D6-49C2-8554-C5AB60370157"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Glance/Root/Main/Matches/ProfileList/ProfileListFeature.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "88"
+            endingLineNumber = "88"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "55EF8AA6-71D6-49C2-8554-C5AB60370157 - c099702e3276c33a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable (ComposableArchitecture.Send&lt;Glance.ProfileListFeature.Action&gt;) async -&gt; () in closure #1 (inout Glance.ProfileListFeature.State, Glance.ProfileListFeature.Action) -&gt; ComposableArchitecture.Effect&lt;Glance.ProfileListFeature.Action&gt; in Glance.ProfileListFeature.body.getter : some"
+                  moduleName = "Glance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devmac2/Documents/apps/Glance/Glance/Root/Main/Matches/ProfileList/ProfileListFeature.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "88"
+                  endingLineNumber = "88"
+                  offsetFromSymbolStart = "160">
+               </Location>
+               <Location
+                  uuid = "55EF8AA6-71D6-49C2-8554-C5AB60370157 - cb2b6a9bd152653d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for closure #1 @Sendable (ComposableArchitecture.Send&lt;Glance.ProfileListFeature.Action&gt;) async -&gt; () in closure #1 (inout Glance.ProfileListFeature.State, Glance.ProfileListFeature.Action) -&gt; ComposableArchitecture.Effect&lt;Glance.ProfileListFeature.Action&gt; in Glance.ProfileListFeature.body.getter : some"
+                  moduleName = "Glance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devmac2/Documents/apps/Glance/Glance/Root/Main/Matches/ProfileList/ProfileListFeature.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "88"
+                  endingLineNumber = "88"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "55EF8AA6-71D6-49C2-8554-C5AB60370157 - cfe505f74c4f873c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(5) suspend resume partial function for closure #1 @Sendable (ComposableArchitecture.Send&lt;Glance.ProfileListFeature.Action&gt;) async -&gt; () in closure #1 (inout Glance.ProfileListFeature.State, Glance.ProfileListFeature.Action) -&gt; ComposableArchitecture.Effect&lt;Glance.ProfileListFeature.Action&gt; in Glance.ProfileListFeature.body.getter : some"
+                  moduleName = "Glance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devmac2/Documents/apps/Glance/Glance/Root/Main/Matches/ProfileList/ProfileListFeature.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "88"
+                  endingLineNumber = "88"
+                  offsetFromSymbolStart = "100">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "38C4B0DA-4890-4714-85FF-0F2195E4FA40"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Glance/Services/Firebase/LiveFirebaseService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "123"
+            endingLineNumber = "123"
+            landmarkName = "loadUsers()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
