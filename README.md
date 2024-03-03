@@ -10,8 +10,7 @@
   
 
 - ⚡ Fun fact: I bought my first Mac last year  
-  
-## Connect with me  
+   
 <div align="left">
 <a href="https://github.com/https://github.com/zqazi114/Glance" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -21,13 +20,14 @@
 </a>  
 </div>  
 
-## Glance - *Be present where you are*
-*This is a demo project to show my capabilities*  
+# Glance - *Be present where you are*
 Glance is a dating app promoting IRL interactions over endless messaging
 
-#### Highlights
+*This is a demo project to show my capabilities in SwiftUI and TCA*  
 
-- TCA
+### Highlights
+
+<ins>TCA</ins>
   - Applies TCA best practices
   - Modular design (Feature = Reducer + State + Actions + Effects)
   - Deep, composed reducer-hierarchy (5+ level)
@@ -40,17 +40,19 @@ Glance is a dating app promoting IRL interactions over endless messaging
   - Non-exhausting unit tests for parent features
   - UT include Navigation paths and Binding reducers
   - UT shortens test time using dependency injection of mutable clock
-    
--  SwiftUI
-  - 
+
+<ins>SwiftUI</ins>
+  - Fully built in SwiftUI
+  - UIKit wrappers through UIViewRepresentable / UIViewControllerRepresentable
+  - Custom fonts
+  - Custom Views for code compactness
   - Custom animation frames implemented using timers
-  - 
     
--  Combine
+<ins>Combine</ins>
   - Set up of async data pipe to TCA features through publishers
   - Use of PassthroughSubject, ValueSubject
 
--  Swift
+<ins>Swift</ins>
   - Protocols, Polymorphism, Abstraction, Generics used to organize code
   - URL requests utilized in 3 ways: completion handler, asynchronous function, Combine publishers
   - Push notifications integrated using APNs
@@ -60,7 +62,7 @@ Glance is a dating app promoting IRL interactions over endless messaging
   - Google Places integrated and exposted through singleton pattern
   - Custom fonts
 
-- Git
+<ins>Git</ins>
   - Feature branching strategy
   - Pull-requests
   - .gitignore
