@@ -1,0 +1,24 @@
+{
+  "configurations" : [
+    {
+      "id" : "34895F5E-9911-40FB-9F99-15D05FD65801",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:Glance.xcodeproj",
+        "identifier" : "D23F6CD32B7F81AD0065D15E",
+        "name" : "GlanceTests"
+      }
+    }
+  ],
+  "version" : 1
+}
