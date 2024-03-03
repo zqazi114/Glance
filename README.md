@@ -23,8 +23,9 @@
 # Glance - *Be present where you are*
 Glance is a dating app promoting IRL interactions over endless messaging
 
-*This is a demo project to show my capabilities in SwiftUI and TCA*  
+*This is a demo project to show my capabilities in SwiftUI and TCA*
 
+[![Glance demo video](https://img.youtube.com/vi/30t0v9Y_4cQ/0.jpg)]([https://www.youtube.com/watch?v=30t0v9Y_4cQ])
 
 
 ### Highlights
