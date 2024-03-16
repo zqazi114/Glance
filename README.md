@@ -7,12 +7,13 @@ Glance is a dating app promoting IRL interactions over endless messaging
 https://github.com/zqazi114/Glance/assets/12015464/1b4cc9ae-4ea3-4a1b-9899-2926162b7fc9
 
 
-### Highlights
-
 <img width="928" alt="image" src="https://github.com/zqazi114/Glance/assets/12015464/d12c9f82-c7b5-4cd0-be1f-ed8532ff4eb1">
 <img width="928" alt="image" src="https://github.com/zqazi114/Glance/assets/12015464/45417c9b-d5bf-4183-b038-98b85466d9cc">
 
 </br>
+</br>
+
+### Highlights
 
 <ins>TCA</ins>
   - Applies TCA best practices
