@@ -1,29 +1,8 @@
-# Zain Qazi [🍎 ex-Apple, 🎮 ex-Microsoft, 👨‍🏫 self-taught iOS developer] 
-  
-- 🔭 I’m currently working on <ins>**SwiftUI**</ins> projects using <ins>**TCA**</ins>
-  
+ # Glance - *Be present where you are*
 
-- 🌱 I’m currently completing a graphic design course at Dribbble  
-  
+:bulb:<u><sub>This is a demo project to show my capabilities in SwiftUI and TCA</sub></u>
 
-- ❓ Ask me about anything related to SwiftUI and TCA  
-  
-
-- ⚡ Fun fact: I bought my first Mac last year  
-   
-<div align="left">
-<a href="https://github.com/https://github.com/zqazi114/Glance" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/zainuddin-qazi/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
-
-# Glance - *Be present where you are*
 Glance is a dating app promoting IRL interactions over endless messaging
-
-*This is a demo project to show my capabilities in SwiftUI and TCA*
 
 https://github.com/zqazi114/Glance/assets/12015464/1b4cc9ae-4ea3-4a1b-9899-2926162b7fc9
 
